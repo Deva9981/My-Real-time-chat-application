@@ -1,1 +1,1 @@
-HTML , CSS , JavaScrip and Websocket.io ...This Real time chat-application
+HTML , CSS , JavaScript and Websocket.io ...This Real time chat-application
